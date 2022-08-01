@@ -1,5 +1,5 @@
 # Python OOP
 
-1. How Classes and Objects Work in Python
+▶ How Classes and Objects Work in Python
 
-[main.py]()
+[main.py](https://github.com/balapriyac/Python-OOP/blob/main/main.py)
