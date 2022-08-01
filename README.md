@@ -1,5 +1,5 @@
 # Python OOP
 
-- [x] How Classes and Objects Work in Python
+1. How Classes and Objects Work in Python
 
-      - main.py 
+[main.py]()
